@@ -1,0 +1,1 @@
+Fictional Harbor Clinic policy: Patients may use the secure patient portal to request appointments and view laboratory results. Never enter real patient data in this tutorial.
